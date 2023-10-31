@@ -28,7 +28,6 @@ body{
 .footer{
     width: fit-content;
     margin: 0 auto;
-    background-color: #cbcbcb;
     display: flex;
 }
 .home{
